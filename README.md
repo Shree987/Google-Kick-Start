@@ -18,3 +18,11 @@
 
 ### [Round D](https://github.com/Shree987/Google-Kick-Start/tree/master/2020/Round%20D)
 1. [Record Breaker](https://github.com/Shree987/Google-Kick-Start/blob/master/2020/Round%20D/1-Record%20Breaker)
+
+
+### [Round E](https://github.com/Shree987/Google-Kick-Start/tree/master/2020/Round%20E)
+1. [Longest Arithmetic](https://github.com/Shree987/Google-Kick-Start/blob/master/2020/Round%20E/1-Longest%20Arithmetic)
+
+### [Round F](https://github.com/Shree987/Google-Kick-Start/tree/master/2020/Round%20F)
+1. [ATM Queue](https://github.com/Shree987/Google-Kick-Start/blob/master/2020/Round%20F/1-ATM%20Queue)
+2. [Metal Harvest](https://github.com/Shree987/Google-Kick-Start/blob/master/2020/Round%20F/2-Metal%20Harvest)
