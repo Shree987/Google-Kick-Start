@@ -26,3 +26,10 @@
 ### [Round F](https://github.com/Shree987/Google-Kick-Start/tree/master/2020/Round%20F)
 1. [ATM Queue](https://github.com/Shree987/Google-Kick-Start/blob/master/2020/Round%20F/1-ATM%20Queue)
 2. [Metal Harvest](https://github.com/Shree987/Google-Kick-Start/blob/master/2020/Round%20F/2-Metal%20Harvest)
+
+## [2021](https://github.com/Shree987/Google-Kick-Start/tree/master/2021)
+
+### [Round A](https://github.com/Shree987/Google-Kick-Start/tree/master/2021/Round%20A)
+1. [K-Goodness String](https://github.com/Shree987/Google-Kick-Start/tree/master/2021/Round%20A/1%20-%20K-Goodness%20String)
+2. [L Shaped Plots](https://github.com/Shree987/Google-Kick-Start/tree/master/2021/Round%20A/2%20-%20L%20Shaped%20Plots)
+3. [Rabbit House](https://github.com/Shree987/Google-Kick-Start/tree/master/2021/Round%20A/3%20-%20Rabbit%20House)
